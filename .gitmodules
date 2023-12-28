@@ -1,0 +1,6 @@
+[submodule "codebox-client"]
+	path = codebox-client
+	url = https://github.com/Coder-Arm/codebox-client
+[submodule "codebox-server"]
+	path = codebox-server
+	url = https://github.com/Coder-Arm/codebox-server
